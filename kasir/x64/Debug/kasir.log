@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(52,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(53,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(56,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(57,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(60,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(61,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(64,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Semester 1\ST008\kasir\kasir\Source.cpp(65,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  kasir.vcxproj -> D:\Semester 1\ST008\kasir\x64\Debug\kasir.exe
